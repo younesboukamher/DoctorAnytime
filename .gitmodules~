@@ -1,0 +1,9 @@
+[submodule "vimit/project1_customiz"]
+	path = vimit/project1_customiz
+	url = https://github.com/vimit/project1_customiz.git
+	branch = master
+
+[submodule "DrAnytime/DrAnytime_CRM"]
+	path = DrAnytime/DrAnytime_CRM
+	url = https://github.com/vimit/DrAnytime_CRM.git
+	branch = master
