@@ -7,3 +7,6 @@
 	path = DrAnytime/DrAnytime_CRM
 	url = git@github.com:vimit/DrAnytime_CRM.git
 	branch = master
+[submodule "exact_online_connector_client"]
+	path = exact_online_connector_client
+	url = git@github.com:younesboukamher/exact_online_connector_client.git
